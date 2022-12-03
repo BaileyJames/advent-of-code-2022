@@ -1,4 +1,4 @@
-file = open("../input.txt", "r")
+file = open("./input.txt", "r")
 
 data = file.read()
 
